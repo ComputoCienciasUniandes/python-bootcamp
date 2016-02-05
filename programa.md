@@ -1,7 +1,7 @@
 ## Primer Python Bootcamp Uniandes - Sábado Febrero 6, 2016##
 
 Hora | Tema
-:---- | -----: |
+:---- | :----- |
 9:00-9:05   | Bienvenida |     
 9:05-9:35   | 01. Intro básica |
 9:40 - 9:55  | Tarea 01 |
