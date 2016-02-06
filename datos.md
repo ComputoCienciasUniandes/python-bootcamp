@@ -1,1 +1,2 @@
 * [Datos del ciclo solar](https://github.com/ComputoCienciasUniandes/MetodosComputacionalesDatos/blob/master/hands_on/solar/monthrg.dat)
+* [Hamlet](https://github.com/ComputoCienciasUniandes/MetodosComputacionalesDatos/blob/master/homework/2014-20/hw_1/hamlet.txt)
