@@ -5,9 +5,6 @@ plt.figure()
 
 theta = np.linspace(0.0, 2.0*np.pi, 100)
 
-a = 3.0
-b = 5.0
-
 k = 1
 n_side = 5
 for a in range(n_side):
@@ -18,7 +15,6 @@ for a in range(n_side):
         k += 1
 
         plt.plot(x,y)
-
         plt.axis("off") 
         plt.axis("equal")
 
